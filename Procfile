@@ -1,1 +1,0 @@
-worker: jsp parsingPost.jsp
