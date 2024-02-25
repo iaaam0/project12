@@ -30,13 +30,7 @@
 - Language : Java, JavaScript, HTML5, CSS
 - Tool : Eclipse, GitHub
 
-
-<details close>
-  <summary> 
-  <h3>🖼 프로젝트 주요 기능</h3>  
-  <span style="color:#DCDCDC"><p>제목을 클릭해서 내용을 확인해주세요 😊</p></span>
-  </summary> 
-  
+### 🖼 프로젝트 주요 기능  
   
 - <b>메인페이지</b> : 한눈에 보기 쉽고 빠르게 페이지 이동 가능한 메뉴, 로그인, 회원가입 제공
 - <b>회원가입</b> : 유효성 검사 적용, 관리자(의사전용)와 일반(환자) 로그인 추가
