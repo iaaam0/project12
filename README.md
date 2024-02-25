@@ -45,8 +45,6 @@
 
 </details>
 
-</details>
-
 <details close>
   <summary>
   <h1>🖥 환자 생체 데이터 24시간 모니터링 대시보드</h1>
